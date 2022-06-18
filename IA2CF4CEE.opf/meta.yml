@@ -1,0 +1,36 @@
+id: IA2CF4CEE
+source: https://sakyaresearch.org
+source_file: null
+initial_creation_type: input
+imported: '2022-06-18T22:22:02.469630'
+last_modified: '2022-06-18T22:22:02.469644'
+parser: null
+source_metadata:
+  title: Sakya Genealogy by Bhikṣu Ratnabhadra
+  author: dge slong ratna bha dra/
+  description: 'Digital version 1.0 {Wylie}; WYLIE COPY of master xml (completed:
+    2018-09-28); incomplete!, revision in process, no thematic TEI markup'
+  file_info:
+  - 'Language: Wylie'
+  - 'Coverage: Excerpt/Colophon'
+  - 'Accessible: publicly'
+  responibilities:
+  - Digital edition:Sakya Research Centre (src)
+  - Text input:tshe ring grong shar/ (td)
+  - Editorial process:Mathias Fermer (mf)
+  - TEI Encoding:Sakya Research Centre
+  - TEI Markup:-
+  - Revisions/Corrections:-
+  text_witnesses: https://sakyaresearch.org/sources/2449
+  bases:
+    b3c2:
+      title: Sakya Genealogy by Bhikṣu Ratnabhadra
+      order: 1
+      base_file: b3c2.txt
+statistics: {}
+quality: {}
+copyright:
+  status: Unknown
+  notice: ''
+  info_url: null
+license: null
